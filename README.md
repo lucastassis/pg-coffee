@@ -3,7 +3,7 @@ This repository contains the code developed in my graduation project. The codes 
 
 ## Triplet Networks
 
-The Google Colab notebook is found in `./siamese_triplet_net/run_siamese_triplet.ipynb`. The code used in this section uses part and is based on [this](https://github.com/adambielski/siamese-triplet) . Check his work out, it is really well documented.
+The Google Colab notebook can be found in `./siamese_triplet_net/run_siamese_triplet.ipynb`. The code used in this section uses part and is based on [this](https://github.com/adambielski/siamese-triplet) . Check his work out, it is really well documented.
 
 ![](./imgs/ch3-tripletnet-model.png)
 
